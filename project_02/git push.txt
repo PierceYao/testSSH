@@ -1,0 +1,9 @@
+HTTPS
+git remote add origin https://github.com/PierceYao/testGit.git
+git branch -M main
+git push -u origin main
+
+SSH
+git remote add origin git@github.com:PierceYao/testGit.git
+git branch -M main
+git push -u origin main
